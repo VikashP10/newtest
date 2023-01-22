@@ -13,8 +13,8 @@
 }
 .inputbox{
     border-radius: 10px;
-    border: 0px;  
-    padding: 5px 10px;
+    border: 0px;    
+    padding: 5px 10px;    
     width: 200px;
 }
 .button{
@@ -25,5 +25,5 @@
     color: rgb(223, 223, 234);
     text-align: center;
     padding: 5px;
-    width: 70px;
+    width: 50px;
 }
