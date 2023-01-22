@@ -16,7 +16,7 @@
     border: 0px;    
     text-align: center;
     padding: 5px;
-    width: auto;
+    width: 200px;
 }
 .button{
     border-radius: 5px;
@@ -26,5 +26,5 @@
     color: rgb(223, 223, 234);
     text-align: center;
     padding: 5px;
-    width: auto;
+    width: 50px;
 }
